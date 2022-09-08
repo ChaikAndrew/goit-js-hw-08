@@ -32,7 +32,7 @@ function onFormSubmit(e) {
         Swal.fire({
             title: 'Упс...',
             text: 'Ви маєте ввести дані в поля: Email та Message!',
-            imageUrl: 'https://fs39.fex.net/preview/4165616703/0x0',
+            imageUrl: 'https://raw.githubusercontent.com/ChaikAndrew/goit-js-hw-08/main/img/alert.png',
             imageWidth: 430,
             imageHeight: 200,
             backdrop: 'rgba(0,0,0,.8)',
