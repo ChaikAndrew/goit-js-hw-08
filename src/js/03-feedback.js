@@ -30,9 +30,9 @@ function onFormSubmit(e) {
     Swal.fire({
       text: 'Ви маєте ввести дані в поля: Email та Message!',
       imageUrl:
-        'https://raw.githubusercontent.com/ChaikAndrew/goit-js-hw-08/main/img/alert.png',
+        'https://raw.githubusercontent.com/ChaikAndrew/goit-js-hw-08/main/src/images/alert.png',
       imageWidth: 430,
-      imageHeight: 200,
+      imageHeight: 150,
       backdrop: 'rgba(0,0,0,.8)',
     });
     return;
