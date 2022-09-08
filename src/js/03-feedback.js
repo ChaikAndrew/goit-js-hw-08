@@ -39,7 +39,7 @@ function onFormSubmit(e) {
   } else {
     Swal.fire({
       text: 'Вашe повідомлення успішно відправлено!',
-      imageUrl: 'https://iconarchive.com/download/i60615/double-j-design/origami-colored-pencil/blue-mail-send.ico',
+      imageUrl: 'https://raw.githubusercontent.com/ChaikAndrew/goit-js-hw-08/main/src/images/send.ico',
       imageWidth: 100,
       imageHeight: 100,
       backdrop: 'rgba(0,0,0,.8)',
