@@ -16,3 +16,17 @@ img {
   display: block;
   max-width: 100%;
 }
+.task_list {
+  list-style-type: none;
+}
+
+.task_link {
+  color: #212121;
+  text-decoration: none;
+}
+
+.task_link:hover,
+.task_link:focus {
+  color: tomato;
+  cursor: pointer;
+}
